@@ -155,6 +155,10 @@
 
 ![Animator](screenshots/animator.png)
 
+### Часть скрипта управления героем
+
+![Часть скрипта управления героем](screenshots/code.png)
+
 ### NavMesh
 
 ![NavMesh](screenshots/navmesh.png)
